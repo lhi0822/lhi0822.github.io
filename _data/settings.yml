@@ -11,10 +11,10 @@ address: Republic of Korea
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about/'}
-#- {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: About, link: '/about'}
+#- {name: Blog, link: '/blog'}
+- {name: Portfolio, link: '/portfolio'}
+- {name: Contact, link: '/contact'}
 
 
 #-------------------------------
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 안녕하세요 ! 나는 iOS 앱 개발자 <br> 혜인 <br>
+  hero-title: iOS App Developer
 
 social:
 #- {icon: "ti-facebook", link: "#"}
@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  자기소개
+  간략한 자기소개 내용
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -74,37 +74,28 @@ work-process:
     icon : "assets/images/icons/print.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-
-# My Team Section
-team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
-
-
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Objective-C, color: '#fdb157', value: '90%'}
+- {name: JAVA, color: '#9473e6', value: '60%'}
+- {name: Javascript, color: '#bdecf6', value: '80%'}
+- {name: HTML5, color: '#ffbcaa', value: '70%'}
+- {name: Spring Framework, color: '#fdb157', value: '90%'}
+- {name: Tomcat, color: '#9473e6', value: '60%'}
+- {name: Apache, color: '#bdecf6', value: '80%'}
+- {name: Web Logic, color: '#ffbcaa', value: '70%'}
+- {name: Oracle, color: '#9473e6', value: '60%'}
+- {name: MySQL, color: '#bdecf6', value: '80%'}
+- {name: SQLite, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
 # Exprerience Section
 #
-#experience-title: 프로젝트
+#experience-title: 경력 사항
 #experience:
 #- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
 #- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
@@ -236,25 +227,6 @@ portfolio-items:
 
 
 #-------------------------------
-# Testimonials Section
-
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-
 #-------------------------------
 # Client Slider Section
 
