@@ -10,22 +10,22 @@ about:
     section: about
     
 timeline:
-title: "Career"
-text: "경력사항입니다."
-section: career
-events:
-  - title: "디비밸리(주) 입사"
-    year: "2015-"
-    desc: "개발2본부 / 모바일팀 / iOS 개발"
-    image: assets/img/timeline/1.jpg
-    alt:
-    align: left
-end: "끝날때까지 끝난게아니다."
+    title: "Career"
+    text: "경력사항입니다."
+    section: timeline
+    events:
+      - title: "디비밸리(주) 입사"
+        year: "2015-"
+        desc: "개발2본부 / 모바일팀 / iOS 개발"
+        image: assets/img/timeline/1.jpg
+        alt:
+        align: left
+    end: "끝날때까지 끝난게아니다."
 
 services:
     title: "Skills"
     text: "Lorem ipsum"
-    section: skills
+    section: services
     list:
       - title: "Language/Framwork"
         desc: "Objective-C, Java, Javascript, JSP, HTML, Spring"
@@ -40,7 +40,7 @@ services:
 portfolio:
     title: "Projects"
     text: "아래 이미지를 클릭하시면 상세 내용을 확인할 수 있습니다."
-    section: projects
+    section: portfolio
     closebutton: "Close Project"
     
 contact:
