@@ -3,13 +3,13 @@ nav:
     section: about
 
   - title: "Career"
-    section: career
+    section: timeline
 
   - title: "Skills"
-    section: skills
+    section: services
 
   - title: "Projects"
-    section: projects
+    section: portfolio
 
   - title: "Contact"
     section: contact

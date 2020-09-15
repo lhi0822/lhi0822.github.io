@@ -1,5 +1,5 @@
 header:
-    title: #도전하는 #끈기있는 #iOS #개발자
+    title: "#도전하는 #끈기있는 #iOS #개발자"
     text: 이혜인입니다
     button: CONTACT
     buttonlink: "#contact"
@@ -8,8 +8,21 @@ about:
     title: "About Us"
     text: "our story"
     section: about
+    
+timeline:
+title: "Career"
+text: "경력사항입니다."
+section: career
+events:
+  - title: "디비밸리(주) 입사"
+    year: "2015-"
+    desc: "개발2본부 / 모바일팀 / iOS 개발"
+    image: assets/img/timeline/1.jpg
+    alt:
+    align: left
+end: "끝날때까지 끝난게아니다."
 
-skills:
+services:
     title: "Skills"
     text: "Lorem ipsum"
     section: skills
@@ -24,26 +37,11 @@ skills:
         desc: "Oracle, MySQL, SQLite"
         icon: fab fa-markdown
 
-projects:
+portfolio:
     title: "Projects"
     text: "아래 이미지를 클릭하시면 상세 내용을 확인할 수 있습니다."
     section: projects
     closebutton: "Close Project"
-    
-
-career:
-    title: "Career" 
-    text: "경력사항입니다."
-    section: career
-    events:
-      - title: "디비밸리(주) 입사"
-        year: "2015-"
-        desc: "개발2본부 / 모바일팀 / iOS 개발"
-        image: assets/img/timeline/1.jpg
-        alt: 
-        align: left
-    end: "끝날때까지 끝난게아니다."
-
     
 contact:
     title: "Contact"
