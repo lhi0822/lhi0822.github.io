@@ -43,10 +43,10 @@ portfolio:
     section: portfolio
     closebutton: "Close Project"
     
-contact:
+team:
     title: "Contact"
     text: "아래의 방법으로 연락해주세요."
-    section: contact
+    section: team
     people:
       - name: "E-Mail"
         role: "bell4912@naver.com"
