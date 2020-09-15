@@ -1,13 +1,18 @@
 header:
-    title: 안녕하세요!
-    text: iOS Developer
-    button: Tell Me More
-    buttonlink: "#services"
+    title: #도전하는 #끈기있는 #iOS #개발자
+    text: 이혜인입니다
+    button: CONTACT
+    buttonlink: "#contact"
 
-services:
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
+skills:
     title: "Skills"
     text: "Lorem ipsum"
-    section: services
+    section: skills
     list:
       - title: "Language/Framwork"
         desc: "Objective-C, Java, Javascript, JSP, HTML, Spring"
@@ -19,17 +24,17 @@ services:
         desc: "Oracle, MySQL, SQLite"
         icon: fab fa-markdown
 
-portfolio:
+projects:
     title: "Projects"
-    text: "아래 이미지를 클릭하면 상세 내용을 확인할 수 있습니다."
-    section: portfolio
+    text: "아래 이미지를 클릭하시면 상세 내용을 확인할 수 있습니다."
+    section: projects
     closebutton: "Close Project"
     
 
-timeline:
+career:
     title: "Career" 
     text: "경력사항입니다."
-    section: timeline
+    section: career
     events:
       - title: "디비밸리(주) 입사"
         year: "2015-"
@@ -37,23 +42,16 @@ timeline:
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-        end: "끝날때까지 끝난게아니다."
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
+    end: "끝날때까지 끝난게아니다."
 
     
-team:
+contact:
     title: "Contact"
     text: "아래의 방법으로 연락해주세요."
-    section: team
+    section: contact
     people:
       - name: "E-Mail"
         role: "bell4912@naver.com"
       - name: "Phone"
         role: "010.939.7822"
         
-                
-# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
