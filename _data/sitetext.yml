@@ -1,7 +1,7 @@
 header:
     title: "#도전하는 #끈기있는 #iOS #개발자"
-    text: 이혜인입니다
-    subtext: LEE HYE IN
+    text: LEE HYE IN
+    subtext: 이혜인 입니다
 
 about:
     title: "About Us"
@@ -10,41 +10,37 @@ about:
     
 timeline:
     title: "Career"
-    text: "경력사항입니다."
     section: timeline
     events:
-      - title: "디비밸리(주) 입사"
-        year: "2015-"
+      - title: "디비밸리(주) 재직중"
+        year: "2015 - "
         desc: "개발2본부 / 모바일팀 / iOS 개발"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/dbvalley.png
         alt:
         align: left
-    end: "끝날때까지 끝난게아니다."
+    end: ""
 
 services:
     title: "Skills"
-    text: "Lorem ipsum"
     section: services
     list:
       - title: "Language/Framwork"
-        desc: "Objective-C, Java, Javascript, JSP, HTML, Spring"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "Objective-C, Java, JavaScript, JSP, HTML, Spring Framework"
+        icon: fas fa-code #find more at https://fontawesome.com/icons
       - title: "Web Server"
-        desc: "Apache, Node,js, Tomcat, WebLogic"
+        desc: "Apache, Tomcat, WebLogic"
         icon: fas fa-laptop       
       - title: "Database"
         desc: "Oracle, MySQL, SQLite"
-        icon: fab fa-markdown
+        icon: fab fa-database
 
 portfolio:
     title: "Projects"
-    text: "아래 이미지를 클릭하시면 상세 내용을 확인할 수 있습니다."
     section: portfolio
     closebutton: "Close Project"
     
 team:
     title: "Contact"
-    text: "아래의 방법으로 연락해주세요."
     section: team
     people:
       - name: "E-Mail"
