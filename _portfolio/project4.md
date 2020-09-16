@@ -1,13 +1,13 @@
 ---
 #what displays when the item is clicked:
-title: 기업용 SNS
-subtitle: 2017 -
+title: 애니메이트
+subtitle: 2016 -
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: 
 
 caption: #what displays in the portfolio grid:
-  title: 기업용 SNS
-  subtitle: 기업 내부 설치형 실시간 커뮤니케이션 솔루션
+  title: 애니메이트
+  subtitle: 사내 그룹웨어 앱
   thumbnail: https://place-hold.it/400x300
 ---
 **소개**
