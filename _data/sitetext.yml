@@ -25,17 +25,17 @@ services:
     section: services
     list:
       - title: "Language/Framwork"
-        desc: "Objective-C, Java, JavaScript, JSP, HTML, Spring Framework"
+        desc: "Objective-C, Java, JavaScript, JSP, HTML, Spring, Bootstrap"
         icon: fas fa-code #find more at https://fontawesome.com/icons
       - title: "Web Server"
         desc: "Apache, Tomcat, WebLogic"
         icon: fas fa-laptop       
       - title: "Database"
         desc: "Oracle, MySQL, SQLite"
-        icon: fab fa-database
+        icon: fas fa-database
 
 portfolio:
-    title: "Projects"
+    title: "Portfolio"
     section: portfolio
     closebutton: "Close Project"
     
@@ -46,5 +46,5 @@ team:
       - name: "E-Mail"
         role: "bell4912@naver.com"
       - name: "Phone"
-        role: "010.939.7822"
+        role: "010.9391.7822"
         

@@ -35,7 +35,7 @@ header.masthead {
         font-size: 30px;
         font-style: normal;
         line-height: 40px;
-        margin-bottom: 25px;
+        margin-bottom: 0px; //25px;
         @include serif-font;
       }
       .intro-heading {
