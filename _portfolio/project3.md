@@ -1,15 +1,13 @@
-caption: #what displays in the portfolio grid:
-title: 코참패스
-subtitle: 상공회의소 모바일 자격 시험 접수
-thumbnail: https://place-hold.it/400x300
-
 ---
 title: 코참패스
 subtitle: 2016 -
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: 
 
-
+caption: #what displays in the portfolio grid:
+  title: 코참패스
+  subtitle: 상공회의소 모바일 자격 시험 접수
+  thumbnail: https://place-hold.it/400x300
 ---
 **소개**
 엠피니티

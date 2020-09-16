@@ -1,16 +1,14 @@
-caption: #what displays in the portfolio grid:
-  title: 기업용 SNS
-  subtitle: 기업 내부 설치형으로 업무 환경에 최적화한 실시간 커뮤니케이션 솔루션
-  thumbnail: https://place-hold.it/400x300
-
 ---
-
 #what displays when the item is clicked:
 title: 기업용 SNS
 subtitle: 2017 -
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: 
 
+caption: #what displays in the portfolio grid:
+  title: 기업용 SNS
+  subtitle: 기업 내부 설치형으로 업무 환경에 최적화한 실시간 커뮤니케이션 솔루션
+  thumbnail: https://place-hold.it/400x300
 ---
 **소개**
 기업 내부 설치형으로 업무 환경에 최적화한 실시간 커뮤니케이션 솔루션입니다.

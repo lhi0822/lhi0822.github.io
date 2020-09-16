@@ -1,16 +1,13 @@
-caption: #what displays in the portfolio grid:
-title: 기업용 업무 플랫폼 앱
-subtitle: 엠피니티입니다.
-thumbnail: https://place-hold.it/400x300
-
-
 ---
 title: 기업용 업무 플랫폼 앱
 subtitle: 2016 -
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: 
 
-
+caption: #what displays in the portfolio grid:
+  title: 기업용 업무 플랫폼 앱
+  subtitle: 엠피니티입니다.
+  thumbnail: https://place-hold.it/400x300
 ---
 **소개**
 엠피니티
