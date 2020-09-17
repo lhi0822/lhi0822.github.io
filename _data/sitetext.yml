@@ -1,7 +1,7 @@
 header:
-    title: "#도전하는 #끈기있는 #iOS #개발자"
-    text: LEE HYE IN
-    subtext: 이혜인 입니다
+    title: "#도전하는 #연구하는 #끈기있는
+    text: iOS Developer
+    subtext: 이혜인 LEEHYEIN
 
 about:
     title: "About Us"
@@ -10,7 +10,6 @@ about:
     
 timeline:
     title: "Career"
-    section: timeline
     events:
       - title: "디비밸리(주) 재직중"
         year: "2015 - "
@@ -46,5 +45,5 @@ team:
       - name: "E-Mail"
         role: "bell4912@naver.com"
       - name: "Phone"
-        role: "010.9391.7822"
+        role: "010-9391-7822"
         
