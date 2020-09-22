@@ -15,7 +15,7 @@ timeline:
         year: "2015 - "
         desc: "개발2본부 / 모바일팀 / iOS 개발"
         image: assets/img/timeline/dbvalley.png
-        alt:
+        alt: ""
         align: left
     end: ""
 
