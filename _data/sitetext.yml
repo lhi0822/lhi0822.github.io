@@ -1,0 +1,49 @@
+header:
+    title: "#도전하는 #연구하는 #끈기있는
+    text: iOS Developer
+    subtext: 이혜인 LEEHYEIN
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+    
+timeline:
+    title: "Career"
+    events:
+      - title: "디비밸리(주) 재직중"
+        year: "2015 - "
+        desc: "개발2본부 / 모바일팀 / iOS 개발"
+        image: assets/img/timeline/dbvalley.png
+        alt:
+        align: left
+    end: ""
+
+services:
+    title: "Skills"
+    section: services
+    list:
+      - title: "Language/Framwork"
+        desc: "Objective-C, Java, JavaScript, JSP, HTML, Spring, Bootstrap"
+        icon: fas fa-code #find more at https://fontawesome.com/icons
+      - title: "Web Server"
+        desc: "Apache, Tomcat, WebLogic"
+        icon: fas fa-laptop       
+      - title: "Database"
+        desc: "Oracle, MySQL, SQLite"
+        icon: fas fa-database
+
+portfolio:
+    title: "Portfolio"
+    section: portfolio
+    closebutton: "Close Project"
+    
+team:
+    title: "Contact"
+    section: team
+    people:
+      - name: "E-Mail"
+        role: "bell4912@naver.com"
+      - name: "Phone"
+        role: "010-9391-7822"
+        

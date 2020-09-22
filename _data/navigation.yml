@@ -1,0 +1,15 @@
+nav:
+  - title: "About"
+    section: clients
+
+  - title: "Career"
+    section: timeline
+
+  - title: "Skills"
+    section: services
+
+  - title: "Portfolio"
+    section: portfolio
+
+  - title: "Contact"
+    section: team
